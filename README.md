@@ -3,21 +3,21 @@ In this Repo have Sorting Algorithms Bubble sort, Insertion Sort, Selection Sort
 <br>
 <br>
 # Bubble Sort
-1. Bubble sort is the simplest sorting algorithm that compares two adjacent elements in an array and swaps the largest of the two values to  the end.
-      2. The worst case time complexity of bubble sort is O(n2): this is because for each iteration n-1 comparisons will be done.
-      3. The best case  time complexity will be O(n): this is when the list is already sorte
-      4. The space time complexity will be O(1): since only one memory space is required for the temp variable.
+* 1. Bubble sort is the simplest sorting algorithm that compares two adjacent elements in an array and swaps the largest of the two values to  the end.
+    *  2. The worst case time complexity of bubble sort is O(n2): this is because for each iteration n-1 comparisons will be done.
+    *  3. The best case  time complexity will be O(n): this is when the list is already sorte
+    *  4. The space time complexity will be O(1): since only one memory space is required for the temp variable.
 
 <br>
 <br>
 # Selection Sort
 
-1. Selection sort is the simplest sorting algorithm. It finds the smallest element in the array and swaps it with the first position in the array. Then the second smallest and swaps it with the second position etc.
-        2. Worst Case Time Complexity : O(n2)
-        3. Best Case Time Complexity : O(n2)
-        4. Average Time Complexity : O(n2)
-        5. Space Complexity : O(1)
-        This makes it inefficient to operate on larger datasets.
+* 1. Selection sort is the simplest sorting algorithm. It finds the smallest element in the array and swaps it with the first position in the array. Then the second smallest and swaps it with the second position etc.
+      *  2. Worst Case Time Complexity : O(n2)
+      *  3. Best Case Time Complexity : O(n2)
+      *  4. Average Time Complexity : O(n2)
+      *  5. Space Complexity : O(1)
+      *  This makes it inefficient to operate on larger datasets.
         
  <br>
  <br>
