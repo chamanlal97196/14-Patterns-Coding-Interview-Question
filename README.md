@@ -34,12 +34,12 @@ In this Repo have Sorting Algorithms Bubble sort, Insertion Sort, Selection Sort
 <br>
 # Merge Sort
 
-Merge sort uses divide & conquer method by splitting the array into smaller parts until there is only one element.
-      The elements are then compared and sorted and merged.
-      Split the arr into half by finding the median.
-      Call mergeSort on the first half and mergeSort on the second half. Then merge the two halves.
-      The time complexity of merge sort is always O(n log n): in all 3 cases (worst, average and best) as merge sort
-      always divides the array in two halves and take linear time to merge two halves.
+* Merge sort uses divide & conquer method by splitting the array into smaller parts until there is only one element.
+   *   The elements are then compared and sorted and merged.
+   *   Split the arr into half by finding the median.
+   *   Call mergeSort on the first half and mergeSort on the second half. Then merge the two halves.
+   *   The time complexity of merge sort is always O(n log n): in all 3 cases (worst, average and best) as merge sort
+   *   always divides the array in two halves and take linear time to merge two halves.
 <br>
 <br>
 # Quick Sort 
