@@ -1,3 +1,22 @@
+# 14 Patterns Coding Interview Question : 
+I mention the top 14 patterns that can be used to solve any coding interview question . The pattern are as follows;
+Sliding Window
+Two Pointers or Iterators
+Fast and Slow pointers
+Merge Intervals
+Cyclic sort
+In-place reversal of linked list
+Tree BFS
+Tree DFS
+Two heaps
+Subsets
+Modified Binary Search
+Top K elements
+K-way Merge
+Topological sort
+
+
+
 # Sorting-Algorithms
 In this Repo have Sorting Algorithms Bubble sort, Insertion Sort, Selection Sort, MergeSort, Quick Sort, Heap Sort etc
 <br>
